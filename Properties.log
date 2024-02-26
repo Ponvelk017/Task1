@@ -1,0 +1,16 @@
+Feb 05, 2024 12:55:44 PM tasksrunner.CircleRunner taskRunner
+INFO: An Exception Occured
+inputcheck.InvalidInputException: Input String is Null, Invalid String input
+	at CodingTasks/util.Util.checkNull(Util.java:14)
+	at CodingTasks/task.Circle.<init>(Circle.java:15)
+	at CodingTasks/tasksrunner.CircleRunner.taskRunner(CircleRunner.java:32)
+	at CodingTasks/tasksrunner.TaskRunner.main(TaskRunner.java:23)
+
+Feb 05, 2024 12:58:07 PM tasksrunner.CircleRunner taskRunner
+INFO: An Exception Occured
+inputcheck.InvalidInputException: Input String is Null, Invalid String input
+	at CodingTasks/util.Util.checkNull(Util.java:14)
+	at CodingTasks/task.Circle.<init>(Circle.java:15)
+	at CodingTasks/tasksrunner.CircleRunner.taskRunner(CircleRunner.java:32)
+	at CodingTasks/tasksrunner.TaskRunner.main(TaskRunner.java:23)
+

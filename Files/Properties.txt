@@ -1,0 +1,5 @@
+#The Stored Properties
+#Fri Feb 02 16:58:00 IST 2024
+hi=hii
+hello=heloo
+bye=byeee
